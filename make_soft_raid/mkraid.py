@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Author: houjun
-# @Date:    16/4/2021
-# @Last Modified by:  houjun
-# @Last Modified time:  16/4/2021
 
 import subprocess
 import sys
